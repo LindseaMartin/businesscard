@@ -1,4 +1,4 @@
-It's me, Stefan!
+It's me, Lindsea!
 
 # Usage
 
