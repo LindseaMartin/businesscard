@@ -4,7 +4,7 @@
   "description": "Lindsea Martin (@LindseaMartin)'s business card",
   "main": "./bin/card.js",
   "bin": {
-    "LindseaMartin": "./bin/card.js"
+    "lindseamartin": "./bin/card.js"
   },
   "repository": {
     "type": "git",
