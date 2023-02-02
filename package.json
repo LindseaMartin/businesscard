@@ -11,12 +11,23 @@
     "url": "https://github.com/LindseaMartin/businesscard.git"
   },
   "scripts": {
+    "prepublish": "npm run build",
+    "build": "node build.js",
+    "dev": "npm run build && node ./bin/card.js",
+    "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
-  "keywords": [],
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
   "author": "Lindsea Martin",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "boxen": "^5.0.0",
     "chalk": "^4.1.0"
   }

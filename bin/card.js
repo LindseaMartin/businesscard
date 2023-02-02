@@ -23,7 +23,7 @@ const data = {
   labelLinkedIn: chalk.white.bold('  LinkedIn:'),
   linkedin: chalk.cyan('https://linkedin.com/in/lindseamartin'),
   labelWeb: chalk.white.bold('       Web:'),
-  web: chalk.cyan('wip'),
+  web: chalk.cyan('https://lindseamartin.github.io'),
   labelCard: chalk.white.bold('      Card:'),
   npx: chalk.white('npx lindseamartin'),
 }
